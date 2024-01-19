@@ -40,10 +40,7 @@ You can click the Preview link to take a look at your changes.
 # Github Streak ☠︎︎
 
 
-<h1>Deploy on HEROKU</h1>
-<summary><h4><strong>Deploy On Heroku. </strong></h4></summary>
-<blockquote><strong>You can deploy this bot on <code>Heroku</code> very easily from here!!</strong><br><br>
-<a href="https://heroku.com/deploy?template=[https://github.com/subhichiku/Chiku-ban](https://github.com/akshayxt/RAXMUSIC)"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Akshayxt/RAXMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
